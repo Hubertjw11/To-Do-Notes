@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# to-do-notes
+# To Do Notes
 
 A new Flutter project.
 
