@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # To Do Notes
 
 A new Flutter project.
